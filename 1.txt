@@ -1,9 +1,1 @@
-
-[Z[A[A[Bthis is first commit
-this is second feature
-[A[A[B[Bthis is second feature
-[A
-[A
-[A                      [D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[Dthis is first commit
-this is secong feature
-cat git.txt
+hi
